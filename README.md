@@ -1,2 +1,2 @@
 # AndyBot
-A Discord bot based on the Little Britain character.
+A Discord bot I made a long time ago which references funny quotes from the Little Britain character, Andy.
