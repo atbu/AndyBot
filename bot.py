@@ -43,7 +43,7 @@ ydl_opts = {
     }],
 }   
 
-playing_statuses = ['with Lou', 'with my wheelchair', 'with a bird', 'without friends']
+playing_statuses = ['with Lou', 'with a bird', 'without friends']
 watching_statuses = ['insects', 'blind people', 'the Dominos delivery van', 'Shrek', 'how to grow an empire']
 listening_statuses = ['Lou', 'deaf people', 'Karl Pilkington\'s podcast', 'the Ricky Gervais Show']
 streaming_statuses = ['Andy']
